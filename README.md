@@ -9,9 +9,8 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/VittoriaG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VittoriaG&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittoriaG&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://github.com/VittoriaG/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VittoriaG&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/VittoriaG/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittoriaG&layout=compact&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> 
+
 </div>
 </div>
 <div style="display: inline_block" align="center"><br>

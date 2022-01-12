@@ -1,4 +1,4 @@
-## Olá! Eu sou a Vitória Gimenes
+## Hi! I'am Vitória Gimenes
 
 
 * 🏫   FMU - Faculdades Metropolitanas Unidas / United Metropolitan Colleges

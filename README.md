@@ -2,8 +2,8 @@
 
 
 * 🏫   FMU - Faculdades Metropolitanas Unidas / United Metropolitan Colleges
-* 👩🏻‍💻   Computer science 3 / 8
-* 👩🏻   22y
+* 👩🏻‍💻   Computer science 5 / 8
+* 👩🏻   23y
 * 📍   São Paulo / Brazil
 ##
 

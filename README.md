@@ -1,9 +1,9 @@
 ## Hi! I'am Vitória Gimenes
 
 
-* 🏫   FMU - Faculdades Metropolitanas Unidas / United Metropolitan Colleges
-* 👩🏻‍💻   Computer science 5 / 8
-* 👩🏻   23y
+* 🏫   UNICSUL - Universidade Cruzeiro do Sul
+* 👩🏻‍💻   ADS - Analise e Desenvolvimento de Sistemas 2 / 4
+* 👩🏻   24y
 * 📍   São Paulo / Brazil
 ##
 
